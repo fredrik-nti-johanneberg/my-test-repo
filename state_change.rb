@@ -1,4 +1,4 @@
-numbers = "3,7,9,2,5,6,8,12,2"
+numbers = "3,6,8,12,2"
 max = 0
 i = 0
 puts "i: #{i}\t max: #{max}\t"  # debug-utskrift
