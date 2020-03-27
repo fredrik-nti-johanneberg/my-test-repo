@@ -1,4 +1,4 @@
-numbers = "3,7,9,2,5"
+numbers = "3,7,9,2,5,6,8,12,2"
 max = 0
 i = 0
 puts "i: #{i}\t max: #{max}\t"  # debug-utskrift
@@ -12,4 +12,4 @@ while i < numbers.length
     i += 1
     puts "i: #{i}\t char: #{char}\t max: #{max}"  # debug-utskrift
 end
-puts "the greatest number in sequence #{numbers} is #{max}"
+puts "The greatest number in sequence #{numbers} is #{max}"
